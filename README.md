@@ -110,6 +110,10 @@ Open **http://localhost:3000**.
 |---|---|---|
 | ![ganache](screenshots/4_ganache.png) | ![ui](screenshots/5_ui_connected.png) | ![tx](screenshots/6_transaction.png) |
 
+**Bonus: second contract (VisitCounter)**
+
+![bonus](screenshots/7_bonus_counter.png)
+
 ## 🛠️ Commands Used
 ```bash
 npm install -g truffle
