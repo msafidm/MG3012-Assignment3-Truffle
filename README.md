@@ -7,7 +7,7 @@
 | **Student** | Safiullah Shakeel |
 | **Roll No.** | 24i-5517 |
 | **Instructor** | Dr. Usama Arshad |
-| **GitHub repo** | [Your GitHub repo link] |
+| **GitHub repo** | https://github.com/msafidm/MG3012-Assignment3-Truffle |
 
 ## 📌 Project Description
 This project extends Assignment 2. The same **FeedbackBoard** smart contract (post a 1-5 star feedback, read the count and average) is now compiled and deployed with the **Truffle Suite** to a local **Ganache** blockchain, and a frontend (HTML/CSS/JS + ethers.js + MetaMask) interacts with it.
