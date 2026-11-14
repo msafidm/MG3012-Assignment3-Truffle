@@ -1,0 +1,14 @@
+{
+  "name": "mg3012-assignment3-truffle-dapp",
+  "version": "1.0.0",
+  "description": "Feedback Board dApp deployed with Truffle and Ganache",
+  "scripts": {
+    "compile": "truffle compile",
+    "migrate": "truffle migrate --reset",
+    "test": "truffle test",
+    "start": "http-server src -p 3000 -c-1"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
